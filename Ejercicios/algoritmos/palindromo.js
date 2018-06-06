@@ -12,4 +12,4 @@ function reverseString(str) {
     return newString;
 
 }
-reverseString('ala');
+reverseString('Reconocer');
