@@ -1,0 +1,14 @@
+{
+  "name": "servidores",
+  "version": "0.0.0",
+  "description": "primeros pasos con cusumo de apis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Santiago",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
